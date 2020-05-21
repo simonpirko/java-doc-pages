@@ -8,7 +8,7 @@
 
 ### How to start learning?
 
-```java
+```
 class Simple {  
   public static void main(String[] args){  
     float f=10.5f;  
