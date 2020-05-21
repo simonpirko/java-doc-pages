@@ -9,4 +9,4 @@
 ### How to start learning?
 
 
-[Next Page](https://github.com/simonpirko/java-doc-pages/edit/master/overview/download-and-install.md)
+[Next Page](https://github.com/simonpirko/java-doc-pages/blob/master/overview/download-and-install.md)
