@@ -7,4 +7,4 @@ Nice and responsive interface. Learning is turning into pleasure.
 
 [Wiki](https://github.com/simonpirko/java-doc-pages/wiki)
 
-[Getting Started Page](https://github.com/simonpirko/java-doc-pages/edit/master/overview/getting-started.md)
+[Getting Started Page](https://github.com/simonpirko/java-doc-pages/blob/master/overview/getting-started.md)
