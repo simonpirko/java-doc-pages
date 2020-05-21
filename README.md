@@ -1,4 +1,4 @@
-# Welcome to the JResource!
+# Welcome to the Java Document Pages for JResource!
 ### Pure Java documentation.
 
 The ability to edit documentation for permanent communities.
